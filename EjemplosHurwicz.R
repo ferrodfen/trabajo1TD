@@ -21,3 +21,8 @@
 # trabajarían allí y finalmente, se llevaría 270 euros al mes. Si la montase con su hermano serían unos 150 euros y sola 190.
 # 
 # ¿Con qué opción ganaría María más dinero al mes? 
+
+
+
+
+
