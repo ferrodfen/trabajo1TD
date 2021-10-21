@@ -21,3 +21,21 @@
 # trabajarían allí y finalmente, se llevaría 270 euros al mes. Si la montase con su hermano serían unos 150 euros y sola 190.
 # 
 # ¿Con qué opción ganaría María más dinero al mes? 
+
+
+
+#Ejercicio 2 (Alice)
+
+#La empresa S.T. se dedica a la fabricación y distribución de zapatillas. Tras los
+#beneficios el año pasado, decide ampliar su oferta de mercado, pero duda con qué producto. 
+#Las alternativas son: formadores, botas y tacones. 
+#Para decantarse por uno u otro producto observará los costes que genera cada
+#opción y éstos dependerán de que la empresa firme un acuerdo con  distribuidoras A , B o C. 
+#Los costes esperados son los siguientes:
+#Si se firma el acuerdo con distribudoras A los costes de los formadores
+# botas y tacones respectivamente son: 1.000 €, 1.100€ y 950€.
+#Si  se firma el acuerdo con distribudoras B los costes de los formadores, botas y tacones
+#respectivamente son: 1.500 €, 1.275€ y 1.050€.
+#Si la empresa acepta firmar el acuerdo C los costes de los formadores, botas y tacones
+#respectivamente son: 1.300 €, 1.200€ y 1.010€.
+#¿con qué opción se beneficiará más la empresa? 
