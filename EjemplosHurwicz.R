@@ -24,6 +24,10 @@
 
 
 
+
+
+
+=======
 #Ejercicio 2 (Alice)
 
 #La empresa S.T. se dedica a la fabricación y distribución de zapatillas. Tras los
@@ -56,3 +60,4 @@
 # 3 - Sin Fertilizante, con la que se puede recogir 150Kg de tomate, 100Kg de patatas y 200Kg de Zanahorias. En este caso, 
 # el agricultor aumentará el precio de CADA verdura en 1 euro.
 # ¿Qué semilla plantará el agricultor para maximizar las ganancias?
+
