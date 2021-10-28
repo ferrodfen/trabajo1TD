@@ -26,3 +26,38 @@
 
 
 
+
+=======
+#Ejercicio 2 (Alice)
+
+#La empresa S.T. se dedica a la fabricación y distribución de zapatillas. Tras los
+#beneficios el año pasado, decide ampliar su oferta de mercado, pero duda con qué producto. 
+#Las alternativas son: formadores, botas y tacones. 
+#Para decantarse por uno u otro producto observará los costes que genera cada
+#opción y éstos dependerán de que la empresa firme un acuerdo con  distribuidoras A , B o C. 
+#Los costes esperados son los siguientes:
+#Si se firma el acuerdo con distribudoras A los costes de los formadores
+# botas y tacones respectivamente son: 1.000 €, 1.100€ y 950€.
+#Si  se firma el acuerdo con distribudoras B los costes de los formadores, botas y tacones
+#respectivamente son: 1.500 €, 1.275€ y 1.050€.
+#Si la empresa acepta firmar el acuerdo C los costes de los formadores, botas y tacones
+#respectivamente son: 1.300 €, 1.200€ y 1.010€.
+#¿con qué opción se beneficiará más la empresa? 
+
+# Ejercicio 3 (Luca)
+# Un agricoltor tiene que elegir cuál semilla plantear entre tomate, patata y zanahoria. Los precios de ventea son respectivamente:
+# 1 - 5€/Kg 
+# 2 - 8€/kg
+# 3 - 2€/Kg
+# Los costes de preparación de la tierra y de las semilla son:
+# 1 - 190€ para el tomate 
+# 2 - 300€ para las verduras que crecen bajo tierra (patata y zanahorias)
+# Sabiendo que el campo se siembra de manera diferente según la hortaliza (es necesario emplear 200m^2 por el tomate, 300m^2 
+# por las patatas y 250m^2 por la zanahoria) y que, a diferencia del fertilizante utilizado, se pueden cosechar distintas 
+# cantidades de hortalizas en base al fertilizante usado el agricultor puede recoger diferentes cantidades de verduras:
+# 1 - Fertilizante A, coste 3€/m^2, con la que se puede recogir 400Kg de tomates, 320Kg de patatas y 600Kg de zanahorias
+# 2 - Fertilizante B, coste 2€/m^2, con la que se puede recogir 300Kg de tomates, 150Kg de patatas y 400Kg de Zanahorias
+# 3 - Sin Fertilizante, con la que se puede recogir 150Kg de tomate, 100Kg de patatas y 200Kg de Zanahorias. En este caso, 
+# el agricultor aumentará el precio de CADA verdura en 1 euro.
+# ¿Qué semilla plantará el agricultor para maximizar las ganancias?
+
