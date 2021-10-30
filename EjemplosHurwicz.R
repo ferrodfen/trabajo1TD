@@ -53,11 +53,12 @@
 # 1 - 190€ para el tomate 
 # 2 - 300€ para las verduras que crecen bajo tierra (patata y zanahorias)
 # Sabiendo que el campo se siembra de manera diferente según la hortaliza (es necesario emplear 200m^2 por el tomate, 300m^2 
-# por las patatas y 250m^2 por la zanahoria) y que, a diferencia del fertilizante utilizado, se pueden cosechar distintas 
-# cantidades de hortalizas en base al fertilizante usado el agricultor puede recoger diferentes cantidades de verduras:
-# 1 - Fertilizante A, coste 3€/m^2, con la que se puede recogir 400Kg de tomates, 320Kg de patatas y 600Kg de zanahorias
-# 2 - Fertilizante B, coste 2€/m^2, con la que se puede recogir 300Kg de tomates, 150Kg de patatas y 400Kg de Zanahorias
-# 3 - Sin Fertilizante, con la que se puede recogir 150Kg de tomate, 100Kg de patatas y 200Kg de Zanahorias. En este caso, 
-# el agricultor aumentará el precio de CADA verdura en 1 euro.
+# por las patatas y 250m^2 por la zanahoria) y que, a diferencia de las condiciones climáticas, se pueden cosechar distintas cantidades de hortalizas:
+# 1 - Clima cálido y húmedo con lluvias frecuentes, con el que se puede recogir 200Kg de tomates, 100Kg de patatas y 600Kg de zanahorias (Sin gastos de riego).
+# 2 - Clima cálido y seco con poca lluvia, con el que se puede recogir 400Kg de tomates, 250Kg de patatas y 400Kg de Zanahorias. Gastos de riego: 1€/m^2 por el tomate, 0,5€/m^2 por la patata, 2€/m^2 por la zanahoria.
+# En este caso, el agricultor no aumentará el precio de vendita.
+# 3 - Clima cálido sin lluvia, con la que se puede recogir 300Kg de tomate, 200Kg de patatas y 400Kg de Zanahorias. Gastos de riego: 3€/m^2 por el tomate, 1,5€/m^2 por la patara, 5€/m^2 por la zanahoria.
+# En este caso, el agricultor aumentará el precio de CADA verdura en 1,5 euro/Kg (para hacer frente a los costes de riego de las plantas).
 # ¿Qué semilla plantará el agricultor para maximizar las ganancias?
+
 
