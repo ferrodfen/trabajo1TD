@@ -62,3 +62,19 @@
 # ¿Qué semilla plantará el agricultor para maximizar las ganancias?
 
 
+========
+
+# Ejercicio 4 (Fernando)
+
+# Una empresa constructora ha obtenido un beneficio mayor de lo esperado este año y ha decidido dedicar una parte de éste a invertir en el negocio.
+# El jefe está barajando la posibilidad de dirigir ese dinero a contratar personal, invertir en publicidad o mejorar las infraestructuras de la empresa. Un dato a tener en cuenta es que se cree que se avecina una nueva crisis de la construcción y ésta echaría a perder las inversiones realizadas. 
+# Veamos cuánto dinero se estima que ganarán en el próximo año:
+
+# -	Si la empresa invierte en publicidad: ganará 15000 euros si no hay crisis, y 5000 euros si la hay.
+# -	Si la empresa contrata nuevo personal: ganará 20000 euros en caso de no darse la crisis, pero perderá 5000 euros en caso de que sí.
+# -	Si invierten en infraestructuras: ganará 10000 euros si no hay crisis, y 9000 si sí la hay.
+
+# ¿Qué inversión le hará ganar más dinero a la empresa en el próximo año?
+
+
+========
